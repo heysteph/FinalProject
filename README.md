@@ -10,6 +10,5 @@ noc_regions.csv is a supporting data for the country labeling used in the main d
 world_gdp.csv is another supporting data, used to check the impact of GDP toward medal tally.
 
 ## Directory
-module.py for my own module
-notebook.ipynb for the notebook
+module.py for my own module and notebook.ipynb for the notebook
 
