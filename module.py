@@ -1,12 +1,3 @@
-def first_move(data):
-    new=[]
-    for val in data:
-        if val[0] == "N":
-            new.append((val)[0:3])
-        else:
-            new.append((val)[0:2])
-    return(new)
-
 def label(data):
     new=[]
     for val in data:
