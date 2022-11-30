@@ -11,10 +11,14 @@ games.csv is used as the main dataframe, it is taken from https://www.kaggle.com
 Final_Project.pdf for the report, module.py for my own module, and notebook.ipynb for the notebook.
 
 ## Requirements
-pandas
-matplotlib
-jupyter
-seaborn
-chess
-stockfish
+```shell
+pip install matplotlib
+pip install pandas
+pip install jupyter
+pip install seaborn
+pip install chess
+pip install chess.engine
+pip install stockfish
+pip install -U scikit-learn
+```
 
